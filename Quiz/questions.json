@@ -1,0 +1,1004 @@
+{
+  "APH_E_PCI": [
+    {
+      "question": "Qual é o principal objetivo do Atendimento Pré-Hospitalar?",
+      "options": [
+        "Curar os feridos",
+        "Manter a vida e estabilizar a vítima",
+        "Fazer um diagnóstico definitivo",
+        "Transportar rapidamente a vítima"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é validado na etapa “A” do XABCDE?",
+      "options": [
+        "Respiração",
+        "Circulação",
+        "Vias aéreas",
+        "Exposição"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual é o número para ativação do SAMU?",
+      "options": [
+        "190",
+        "192",
+        "193",
+        "911"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A escala AVPU é utilizada para avaliar:",
+      "options": [
+        "Nível de consciência",
+        "Frequência cardíaca",
+        "Presença de fraturas",
+        "Tipo de hemorragia"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Em caso de sangramento arterial, qual a conduta imediata?",
+      "options": [
+        "Compressão direta não local",
+        "Elevação do membro",
+        "Aplicação de torniquete se necessário",
+        "Todas as alternativas anteriores"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual a posição lateral de segurança indicada para vítimas:",
+      "options": [
+        "Que estejam conscientes",
+        "Inconscientes e respirando",
+        "Em choque",
+        "Com fratura exposta"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que significa a sigla SAMPLE?",
+      "options": [
+        "Sinais, Alergias, Medicamentos, Passagem Médica, Última Refeição, Eventos",
+        "Sangue, Arte, Movimento, Pulso, Lesão, Emergência",
+        "Sistema, Armazenamento, Medicamentos, Passo a passo, Lesão, Eventos",
+        "Sem alternativas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quando é indicado iniciar a reanimação cardiopulmonar (RCP)?",
+      "options": [
+        "Se a vítima estiver inconsciente",
+        "Se a vítima não tiver pulso e não conseguir respirar",
+        "Em estado cadavérico",
+        "Não estiver respirando, mas com pulsação fraca"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quais equipamentos são essenciais para proteger o salva-vidas durante o APH?",
+      "options": [
+        "Luvas e máscara",
+        "Capacete",
+        "Kit oxigenioterapia",
+        "Máscara"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual a função da Torniquete?",
+      "options": [
+        "Curar fraturas",
+        "Estancar hemorragias graves no membro",
+        "Imobilizar a vítima",
+        "Nenhuma das alternativas"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que deve ser feito em caso de engasgo?",
+      "options": [
+        "Massagem no peito",
+        "Manobra de Heimlich",
+        "Aplicar soro",
+        "Colocar a vítima deitada"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Para aplicar APH em uma vítima com fratura exposta, o socorrista deve:",
+      "options": [
+        "Tentar realinhar o osso",
+        "Imobilizar o membro sem manipular muito",
+        "Aplicar gel diretamente sobre o osso",
+        "Remover o objeto que causou a fratura"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A sigla RCP significa:",
+      "options": [
+        "Respiração Cardíaca Pulmonar",
+        "Ressuscitação Cardiopulmonar",
+        "Registro Clínico do Paciente",
+        "Remoção do Corpo Preso"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual a maneira correta de prestar socorro especializado em um acidente?",
+      "options": [
+        "Pedir para alguém mexer a vítima",
+        "Socorrer usando SBV",
+        "Esperar a chegada dos bombeiros",
+        "Levar a vítima ao hospital às pressas"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual o principal risco de movimentar vítimas sem técnica?",
+      "options": [
+        "Causar mais lesões, principalmente na coluna",
+        "Aumentar o sangramento",
+        "Ajudar a vítima a respirar melhor",
+        "Nenhum risco"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Em casos de queimaduras, qual a conduta correta?",
+      "options": [
+        "Aplicar água fria em abundância",
+        "Aplicar pomada imediata",
+        "Estourar as bolhas para aliviar a dor",
+        "Retirar as queimaduras expostas do calor"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual a importância da história clínica na avaliação da vítima?",
+      "options": [
+        "Facilita o atendimento adequado e seguro",
+        "Ajuda a ajudar outras vítimas",
+        "Ajuda a encontrar parentes",
+        "Não é importante para o APH"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que significa “choque” no contexto da APH?",
+      "options": [
+        "Choque elétrico",
+        "Condição médica grave caracterizada pela falência do sistema cardiovascular",
+        "Fratura exposta",
+        "Queimadura grave"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quando fornecer a oxigenação?",
+      "options": [
+        "Sempre que a vítima estiver consciente",
+        "Se houver dificuldade respiratória ou baixa saturação",
+        "Nunca",
+        "Somente se a vítima pedir"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual o procedimento em caso de parada cardiorrespiratória?",
+      "options": [
+        "Iniciar RCP e chamar socorro especializado",
+        "Ligar apenas para o SAMU",
+        "Aplicar compressas frias",
+        "Deter a vítima e aguardar melhora"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual elemento abaixo que não faze parte do triângulo do fogo?",
+      "options": [
+        "Calor",
+        "Combustível",
+        "Oxidante",
+        "Água"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é o “comburente” no triângulo do fogo?",
+      "options": [
+        "O calor necessário para a ignição",
+        "O combustível para o fogo",
+        "O agente que mantém a combustão",
+        "A fonte de ignição"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Que tipo de fogo é caracterizado por materiais sólidos comuns, como madeira e papel?",
+      "options": [
+        "Classe A",
+        "Classe B",
+        "Classe C",
+        "Classe D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual extintor é mais indicado para incêndios envolvendo equipamentos elétricos energizados?",
+      "options": [
+        "Água pressurizada",
+        "Pó químico seco",
+        "Espuma mecânica",
+        "Dióxido de carbono (CO₂)"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual extintor é adequado para incêndios em líquidos inflamáveis?",
+      "options": [
+        "Classe A",
+        "Classe B",
+        "Classe C",
+        "Classe K"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual é a classificação do extintor (CO₂) entre os equipamentos de combate a incêndio?",
+      "options": [
+        "Equipamento de proteção individual",
+        "Equipamento de sinalização de emergência",
+        "Equipamento fixo de combate a incêndio",
+        "Equipamento móvel de combate a incêndio"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Para que serve um hidrante?",
+      "options": [
+        "Armar extintores de incêndio",
+        "Reabastecer a rede de combate a incêndio com água",
+        "Produzir espuma",
+        "Detectar fumaça"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quais são as melhores alternativas para um sprinkler?",
+      "options": [
+        "Um extintor de incêndio portátil",
+        "Um sistema automático de combate a incêndio por pulverização de água",
+        "Um equipamento para hidratar plantas",
+        "Um sensor de fumaça"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é prevenção de incêndio?",
+      "options": [
+        "O conjunto de medidas para evitar que o fogo ocorra",
+        "O ato de extinguir o fogo",
+        "Somente o uso de extintores de incêndio",
+        "A evacuação do imóvel"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Para o que é indicado o extintor de CO₂?",
+      "options": [
+        "Extintor indicado apenas para incêndios em madeira e papel",
+        "Extintor de uso exclusivo em áreas externas",
+        "Extintor ideal para equipamentos elétricos",
+        "Extintor que utiliza água pressurizada como agente extintor"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que deve ser feito ao identificar um princípio de incêndio?",
+      "options": [
+        "Tente apagá-lo com o extintor adequado",
+        "Fuja do local sem avisar ninguém",
+        "Acione os bombeiros e espere sem fazer mais nada",
+        "Jogue água em caso de fogo elétrico"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Em um incêndio de classe D, que tipo de material estava envolvido?",
+      "options": [
+        "Líquidos inflamáveis",
+        "Metais pirofóricos",
+        "Equipamentos elétricos",
+        "Papel e madeira"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Para que serve o hidrante de recalque?",
+      "options": [
+        "Para abastecer os extintores de incêndio",
+        "Permitir o abastecimento da rede de incêndio por viaturas do Corpo de Bombeiros",
+        "Para limpar mangueiras",
+        "Para sinalizar vazamentos"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O extintor de pó químico seco (PQS) é indicado para combater incêndios de quais classes?",
+      "options": [
+        "Apenas classe A",
+        "Classes B e C",
+        "Apenas classe D",
+        "Classes A e D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quais equipamentos devem ser inspecionados periodicamente para garantir o funcionamento adequado?",
+      "options": [
+        "Extintores de incêndio",
+        "Mangueiras",
+        "Alarmes de incêndio",
+        "Todas as alternativas acima"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que significa a sigla PCI?",
+      "options": [
+        "Prevenção e Combate a Incêndios",
+        "Plano de Controle Interno",
+        "Procedimento de Controle de Incêndio",
+        "Preparação para Incêndios"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que deve conter a sinalização de emergência?",
+      "options": [
+        "Somente saídas de emergência",
+        "Saídas de emergência, extintores de incêndio e equipamentos de segurança",
+        "Localização dos bombeiros",
+        "Nenhuma alternativa"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que caracteriza um incêndio de classe K?",
+      "options": [
+        "Queimadas florestais",
+        "Incêndios com gordura e óleo de cozinha",
+        "Incêndio em eletricidade",
+        "Incêndio em metais"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A que distância deve ser instalado um extintor de incêndio para facilitar o acesso?",
+      "options": [
+        "A mais de 30 metros da localização",
+        "No máximo 15 metros",
+        "Em qualquer local da propriedade",
+        "Logo na entrada"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que fazer se o extintor não funcionar durante o combate ao incêndio?",
+      "options": [
+        "Tentar reiniciar",
+        "Utilizar outro extintor ou evacuar e retirar as vítimas",
+        "Utilizar água independentemente do tipo de incêndio",
+        "Aguardar o fogo apagar sozinho"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A que temperatura, em média, um sprinkler do tipo padrão é acionado automaticamente?",
+      "options": [
+        "38 °C",
+        "68 °C",
+        "100 °C",
+        "150 °C"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual é a principal função da bomba de incêndio em um sistema hidráulico preventivo?",
+      "options": [
+        "Recarregar extintores",
+        "Manter a pressão da água na rede de hidrantes e sprinklers",
+        "Controlar o nível da caixa d’água",
+        "Despressurizar os encanamentos após uso"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual cor identifica a ampola de um sprinkler acionado a aproximadamente 68 °C?",
+      "options": [
+        "Amarelo",
+        "Laranja",
+        "Vermelho",
+        "Verde"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual a principal função do DEA (Desfibrilador Externo Automático)?",
+      "options": [
+        "Monitorar a pressão arterial do paciente",
+        "Restaurar o ritmo cardíaco normal em casos de parada cardíaca por fibrilação ventricular",
+        "Estabilizar fraturas de membros superiores",
+        "Administrar medicamentos de emergência automaticamente"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quando deve ser utilizado o DEA em uma vítima inconsciente?",
+      "options": [
+        "Somente se ela estiver respirando",
+        "Após confirmar parada cardiorrespiratória (sem pulso e sem respiração)",
+        "Apenas se houver hemorragia",
+        "Após a vítima recuperar a consciência"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual é o objetivo da manobra \"Chin Lift\" (elevação do queixo)?",
+      "options": [
+        "Estimular a circulação",
+        "Controlar hemorragias faciais",
+        "Abrir a via aérea de uma vítima inconsciente sem suspeita de trauma",
+        "Realizar intubação de emergência"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Em caso de suspeita de trauma cervical, qual manobra deve ser usada para abrir a via aérea?",
+      "options": [
+        "Chin lift",
+        "Manobra de Heimlich",
+        "Head tilt",
+        "Jaw thrust (manobra de tração mandibular)"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual a frequência correta de compressões torácicas durante a RCP (reanimação cardiopulmonar) em adultos?",
+      "options": [
+        "60 a 80 compressões por minuto",
+        "80 a 100 compressões por minuto",
+        "100 a 120 compressões por minuto",
+        "140 a 160 compressões por minuto"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual é a relação recomendada entre compressões e ventilações durante a RCP em adultos, quando há dois socorristas treinados?",
+      "options": [
+        "15 compressões : 2 ventilações",
+        "30 compressões : 2 ventilações",
+        "5 compressões : 1 ventilação",
+        "100 compressões contínuas, sem ventilação"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Em uma vítima inconsciente com pulso, mas sem respiração, qual deve ser a conduta inicial?",
+      "options": [
+        "Iniciar compressões torácicas imediatamente",
+        "Fazer ventilações de resgate a cada 5 segundos",
+        "Usar o DEA imediatamente",
+        "Colocar em posição lateral de segurança"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que deve ser feito antes de aplicar o choque com o DEA?",
+      "options": [
+        "Aplicar compressões por 5 minutos",
+        "Remover qualquer acessório metálico do corpo da vítima",
+        "Certificar-se de que ninguém está tocando a vítima",
+        "Administrar uma medicação intravenosa"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual a primeira atitude ao chegar em uma cena de emergência?",
+      "options": [
+        "Avaliar a consciência da vítima",
+        "Iniciar as compressões torácicas",
+        "Avaliar riscos e garantir a própria segurança",
+        "Aplicar oxigênio de imediato"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Em qual situação é indicada a posição lateral de segurança (PLS)?",
+      "options": [
+        "Vítima com parada cardíaca",
+        "Vítima inconsciente, com respiração normal e sem suspeita de trauma",
+        "Vítima com fratura exposta",
+        "Vítima inconsciente com suspeita de lesão na coluna"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual o principal objetivo da avaliação primária no APH?",
+      "options": [
+        "Diagnosticar doenças crônicas",
+        "Realizar exames laboratoriais",
+        "Identificar e tratar condições que ameaçam a vida imediatamente",
+        "Avaliar a pressão arterial e frequência cardíaca"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Em uma vítima com sangramento abundante em membro inferior, qual a primeira medida de controle da hemorragia?",
+      "options": [
+        "Elevar o membro e aplicar gelo",
+        "Aplicar torniquete imediatamente",
+        "Realizar compressão direta no local",
+        "Administrar soro fisiológico intravenoso"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A máscara de bolso (pocket mask) é usada em qual situação?",
+      "options": [
+        "Para estabilizar o pescoço",
+        "Para ventilar uma vítima em parada respiratória, com proteção ao socorrista",
+        "Para controlar hemorragias faciais",
+        "Para medir a saturação de oxigênio"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual é a pontuação mínima possível na Escala de Coma de Glasgow?",
+      "options": [
+        "0",
+        "3",
+        "5",
+        "7"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Um paciente abre os olhos ao chamado, fala palavras inapropriadas e retira o braço ao estímulo doloroso. Qual a pontuação total na Escala de Coma de Glasgow?",
+      "options": [
+        "12",
+        "10",
+        "9",
+        "8"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual a pontuação máxima na Escala de Coma de Glasgow?",
+      "options": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual resposta motora recebe a maior pontuação (6 pontos) na Escala de Coma de Glasgow?",
+      "options": [
+        "Localiza a dor",
+        "Movimento normal e obedece comandos",
+        "Retira-se ao estímulo doloroso",
+        "Flexão anormal (decorticação)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual pontuação corresponde à abertura ocular espontânea na ECG?",
+      "options": [
+        "1 ponto",
+        "2 pontos",
+        "3 pontos",
+        "4 pontos"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que significa \"midríase\"?",
+      "options": [
+        "Contração dos músculos faciais",
+        "Aumento anormal do diâmetro da pupila",
+        "Fechamento involuntário dos olhos",
+        "Presença de secreção ocular"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A presença de \"miose\" indica:",
+      "options": [
+        "Abertura involuntária das pálpebras",
+        "Redução do diâmetro pupilar",
+        "Aumento da pressão ocular",
+        "Falta de resposta à luz"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A anisocoria é caracterizada por:",
+      "options": [
+        "Pupilas que não reagem à luz",
+        "Pupilas dilatadas e fixas",
+        "Diferença de tamanho entre as pupilas",
+        "Pupilas reativas à luz em ambos os olhos"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pupilas dilatadas, não reativas à luz, geralmente indicam:",
+      "options": [
+        "Pressão arterial baixa",
+        "Trauma abdominal",
+        "Lesão cerebral grave ou parada cardiorrespiratória",
+        "Hipotermia leve"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual equipamento de proteção individual (EPI) é obrigatório para quem realiza combate direto ao fogo?",
+      "options": [
+        "Capacete de obra",
+        "Jaqueta de segurança refletiva",
+        "Conjunto de roupa anti-chama, bota, luvas e capacete com viseira",
+        "Jaleco de algodão e óculos de proteção"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O extintor com agente F-500 é especialmente eficaz contra qual tipo de incêndio?",
+      "options": [
+        "Classes A, D, F/K e em incêndios de baterias de lítio",
+        "Classes A, B, F/K e em incêndios de baterias de lítio",
+        "Classes A, B, C, D, F/K e em incêndios de baterias de lítio",
+        "Classes A, B, D, F/K e em incêndios de baterias de lítio"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Em qual das alternativas abaixo o uso do extintor F-500 seria o mais indicado?",
+      "options": [
+        "Incêndio em quadro elétrico energizado",
+        "Incêndio em bateria de carro elétrico",
+        "Incêndio em fritadeira industrial",
+        "Incêndio em motor a diesel"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual é a principal função da casa de bombas em um sistema de combate a incêndio?",
+      "options": [
+        "Controlar o sistema de alarme de incêndio",
+        "Pressurizar a rede de hidrantes e sprinklers",
+        "Reabastecer os extintores de incêndio",
+        "Controlar o consumo de energia elétrica da edificação"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual bomba da casa de bombas entra em operação automaticamente em caso de vazamento mínimo no sistema para manter a pressão estável?",
+      "options": [
+        "Bomba principal elétrica",
+        "Bomba reserva a diesel",
+        "Bomba jockey",
+        "Bomba manual"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual das alternativas contém componentes obrigatórios de uma casa de bombas de incêndio, conforme normas técnicas (como a NBR 13.714)?",
+      "options": [
+        "Bomba elétrica, bomba jockey, bomba de recalque",
+        "Bomba elétrica, bomba reserva (diesel) e bomba jockey",
+        "Compressor de ar, bomba de drenagem, painel fotovoltaico",
+        "Apenas bomba jockey"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual fonte de energia é obrigatória para a bomba reserva em sistemas de combate a incêndio?",
+      "options": [
+        "Elétrica trifásica",
+        "Gás natural",
+        "Diesel (motor a combustão)",
+        "Energia solar"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "De acordo com a NBR 11861, qual o tipo de mangueira indicado para uso em áreas industriais, como fábricas e refinarias?",
+      "options": [
+        "Tipo 1",
+        "Tipo 2",
+        "Tipo 3",
+        "Tipo 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual é a mangueira mais indicada para uso em prédios residenciais?",
+      "options": [
+        "Tipo 1",
+        "Tipo 3",
+        "Tipo 4",
+        "Tipo 5"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A mangueira tipo 2, de acordo com a NBR 11861, é recomendada para:",
+      "options": [
+        "Uso exclusivo em áreas residenciais",
+        "Uso industrial pesado",
+        "Uso em edifícios comerciais e áreas de risco moderado",
+        "Combate florestal"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O teste hidrostático em mangueiras serve para:",
+      "options": [
+        "Verificar se a mangueira cabe no suporte",
+        "Testar a resistência da mangueira à pressão",
+        "Garantir que o engate é compatível",
+        "Verificar o comprimento total"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual é a principal função do divisor em uma linha de combate a incêndio?",
+      "options": [
+        "Aumentar a pressão da água",
+        "Dividir uma linha principal de mangueira em duas ou mais saídas",
+        "Medir a temperatura da água",
+        "Recolher a água utilizada no combate"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Em qual situação o uso do divisor é mais indicado?",
+      "options": [
+        "Quando há necessidade de recalcar a água para grandes alturas",
+        "Quando se precisa criar duas linhas de combate a partir de uma só",
+        "Quando o hidrante está com vazamento",
+        "Quando o extintor está indisponível"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O divisor é conectado diretamente a:",
+      "options": [
+        "Reservatórios de emergência",
+        "Mangueiras e hidrantes",
+        "Centrais de alarme",
+        "Painéis de comando elétrico"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O uso do colar cervical no APH é indicado para:",
+      "options": [
+        "Evitar movimentos de flexão e rotação do pescoço em suspeita de trauma raquimedular",
+        "Tratar parada cardiorrespiratória",
+        "Reduzir a dor lombar",
+        "Estabilizar fraturas no úmero"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é a finalidade do DEA (Desfibrilador Externo Automático)?",
+      "options": [
+        "Reduzir a frequência respiratória",
+        "Estabilizar fraturas torácicas",
+        "Identificar e corrigir arritmias letais com choque elétrico",
+        "Avaliar níveis de glicose no sangue"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual estrutura óssea protege diretamente o encéfalo?",
+      "options": [
+        "Coluna vertebral",
+        "Esterno",
+        "Crânio",
+        "Mandíbula"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual osso do corpo humano é mais suscetível à fratura em quedas com apoio pelos braços?",
+      "options": [
+        "Fêmur",
+        "Rádio",
+        "Úmero",
+        "Tíbia"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Os ossos da coluna vertebral são chamados de:",
+      "options": [
+        "Crânios",
+        "Tarsos",
+        "Vértebras",
+        "Costelas"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual osso do crânio é móvel e responsável pelo movimento da fala e da mastigação?",
+      "options": [
+        "Maxilar",
+        "Mandíbula",
+        "Frontal",
+        "Temporal"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O osso responsável pela articulação do braço com o ombro é o:",
+      "options": [
+        "Úmero",
+        "Escápula",
+        "Rádio",
+        "Fêmur"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A articulação do joelho é formada principalmente por quais ossos?",
+      "options": [
+        "Fêmur, tíbia e patela",
+        "Fêmur, fíbula e sacro",
+        "Tíbia, fíbula e ilíaco",
+        "Fêmur, rádio e patela"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é a faixa considerada normal da temperatura corporal em um adulto saudável?",
+      "options": [
+        "35,0°C a 36,0°C",
+        "36,0°C a 37,5°C",
+        "37,5°C a 38,5°C",
+        "34,0°C a 35,0°C"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Considera-se hipotermia quando a temperatura corporal está abaixo de:",
+      "options": [
+        "36°C",
+        "35°C",
+        "34°C",
+        "33°C"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Um paciente com hipotermia grave pode apresentar:",
+      "options": [
+        "Frequência cardíaca elevada e febre",
+        "Respiração ofegante e sudorese intensa",
+        "Bradicardia, confusão mental e tremores ausentes",
+        "Pupilas dilatadas e hiperatividade"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual é o local mais comum para aferir a temperatura corporal em adultos, de forma prática e acessível?",
+      "options": [
+        "Oral",
+        "Retal",
+        "Axila",
+        "Timpânica"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual é o local de aferição da temperatura considerado mais confiável para estimar a temperatura central?",
+      "options": [
+        "Axilar",
+        "Oral",
+        "Retal",
+        "Dorsal da mão"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que significa a sigla VOS na avaliação da ventilação em APH?",
+      "options": [
+        "Volume, Oxigênio e Sinais",
+        "Ver, Ouvir e Sentir",
+        "Verificar, Observar e Socorrer",
+        "Vias, Oxigênio e Suporte"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Na técnica VOS, o socorrista deve:",
+      "options": [
+        "Verificar pulsação, ouvir respiração e sentir o batimento cardíaco",
+        "Ver o movimento do tórax, ouvir sons de fala ou respiração e sentir o pulso",
+        "Ver sinais de hemorragia, ouvir gritos e sentir a pele",
+        "Ver o trauma, ouvir relatos e sentir o pulso"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Durante a aplicação do VOS, o socorrista deve posicionar-se:",
+      "options": [
+        "Ao lado do tórax do paciente",
+        "Próximo ao abdômen",
+        "Com o rosto voltado para o tórax, próximo ao nariz e boca do paciente",
+        "Atrás da cabeça do paciente"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Um paciente que sofreu trauma craniano grave apresenta abertura ocular apenas à dor, fala incompreensível e extensão anormal dos membros. Qual é sua pontuação na Escala de Coma de Glasgow?",
+      "options": [
+        "15",
+        "10",
+        "6",
+        "7"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A sigla “PQE” ou “PQS” nos extintores refere-se ao agente extintor:",
+      "options": [
+        "Água pressurizada",
+        "Pó químico especial/seco",
+        "Espuma mecânica",
+        "Gás carbônico"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual destes extintores geralmente não possui mangueira, mas sim um difusor fixo?",
+      "options": [
+        "Pó químico seco",
+        "Espuma mecânica",
+        "CO₂",
+        "Água pressurizada"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual componente do sistema de sprinklers é projetado para romper com o aumento de temperatura e liberar água?",
+      "options": [
+        "Hidrante angular",
+        "Válvula de governo",
+        "Ampola de vidro do sprinkler",
+        "Difusor de CO₂"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A classe D de incêndios é relacionada a:",
+      "options": [
+        "Combustíveis líquidos",
+        "Equipamentos elétricos",
+        "Materiais sólidos",
+        "Metais pirofóricos"
+      ],
+      "answer": 3
+    }
+  ]
+}

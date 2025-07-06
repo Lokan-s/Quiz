@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Quiz APH e PCI</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>Quiz APH e PCI</h1>
+  <div>
+    <label for="bloco">Escolha o bloco:</label>
+    <select id="bloco">
+      <option value="APH_E_PCI">APH e PCI</option>
+    </select>
+    <button onclick="iniciarQuiz()">Iniciar</button>
+    <button id="stop-btn" onclick="pararQuiz()" style="display:none;">Parar</button>
+  </div>
+
+  <!-- Progress bar -->
+  <div id="progress-wrapper" style="display:none;">
+    <div id="progress-container">
+      <div id="progress-bar"></div>
+    </div>
+    <span id="progress-text"></span>
+  </div>
+
+  <div id="quiz" style="margin-top: 20px;"></div>
+
+  <script>
+  let perguntas = [], bloco = "APH_E_PCI", atual = 0, pontuacao = 0, respostas = [];
+
+  async function iniciarQuiz() {
+    bloco = document.getElementById('bloco').value;
+    const res = await fetch('questions.json');
+    const data = await res.json();
+    perguntas = embaralharArray(data[bloco]);
+    atual = 0;
+    pontuacao = 0;
+    respostas = [];
+
+    // mostrar barra e botão parar
+    document.getElementById('progress-wrapper').style.display = 'block';
+    document.getElementById('stop-btn').style.display = 'inline-block';
+
+    updateProgress();
+    mostrarPergunta();
+  }
+
+  // Função auxiliar para embaralhar perguntas
+  function embaralharArray(arr) {
+    const array = arr.slice(); // cópia para não alterar original
+    for (let i = array.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
+  }
+
+  function updateProgress() {
+    const total = perguntas.length;
+    const percent = total === 0 ? 0 : (atual / total) * 100;
+    document.getElementById('progress-bar').style.width = percent + '%';
+    document.getElementById('progress-text').textContent = `${Math.min(atual, total)} / ${total}`;
+  }
+
+  function mostrarPergunta() {
+    if (atual >= perguntas.length) return mostrarResultado(false);
+    const p = perguntas[atual];
+    document.getElementById('quiz').innerHTML = `
+      <div class="card">
+        <h2>${atual + 1}. ${p.question}</h2>
+        ${p.options.map((opt, i) =>
+          `<div class="option" onclick="responder(${i})">${opt}</div>`).join('')}
+      </div>
+    `;
+    updateProgress();
+  }
+
+  function responder(indice) {
+    const p = perguntas[atual];
+    const opcoes = document.querySelectorAll('.option');
+    opcoes.forEach((el, i) => {
+      el.classList.add('disabled');
+      if (i === p.answer) el.classList.add('correct');
+      else if (i === indice) el.classList.add('wrong');
+    });
+    respostas.push(indice);
+    if (indice === p.answer) pontuacao++;
+    setTimeout(() => { atual++; mostrarPergunta(); }, 1000);
+  }
+
+  function pararQuiz() {
+    // define atual igual ao número de respostas já dadas
+    atual = respostas.length;
+    mostrarResultado(true);
+  }
+
+  /**
+   * @param {boolean} earlyStop - true se o usuário clicou em "Parar" antes do fim
+   */
+  function mostrarResultado(earlyStop) {
+    const totalRespondidas = respostas.length;
+    const totalPerguntas   = perguntas.length;
+
+    // esconder botão parar e preencher progress bar
+    document.getElementById('stop-btn').style.display = 'none';
+    atual = totalRespondidas; // para updateProgress()
+    updateProgress();
+
+    const quiz = document.getElementById('quiz');
+    quiz.innerHTML = `
+      <div class="card">
+        <h2>${earlyStop ? 'Quiz interrompido' : 'Resultado final'}</h2>
+        <p>Você acertou ${pontuacao} de ${earlyStop ? totalRespondidas : totalPerguntas}${earlyStop ? ' questões respondidas' : ''}</p>
+        <button onclick="iniciarQuiz()">Refazer</button>
+      </div>
+      ${perguntas.slice(0, totalRespondidas).map((q, i) => `
+        <div class="card">
+          <p><strong>${i + 1}.</strong> ${q.question}</p>
+          ${q.options.map((opt, j) => `
+            <div class="option ${
+              j === q.answer ? 'correct' :
+              j === respostas[i] ? 'wrong' : ''
+            }">${opt}</div>`).join('')}
+        </div>
+      `).join('')}
+    `;
+  }
+  </script>
+</body>
+</html>
